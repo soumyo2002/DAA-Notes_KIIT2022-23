@@ -1,0 +1,27 @@
+A1)FINITE set of steps to solve a problem is called an algorithm. No of steps and instruction should be finite.
+
+A2)Characteristics:
+i)Algorithm must execute in finite number of steps
+ii)Each step must be clear and unambiguous
+iii)Feasibile:Should work within the given resources
+iv)Language independent
+v)Algorithm must take zero or more inputs and produce atleast one output and algorithm must specify what output will be produced
+
+A3)Analysis is comparison of two algorithms w.r.t time and space.
+
+priori algorithms are absolute algorithms whose analysis is done before running it on the system and
+whose efficiency is calculated in asymtotic terms and is independent of language and hardware whereas, 
+
+Posteriori algorithms are relative algorithms whose analysis is done after running it on the system and
+whose efficiency is not calculated in asymtotic terms and is dependent on language and hardware.
+
+A4)
+Adavantages:
+1)Easier to understand
+2)Gives step-wise solution to the problem
+3)Can be converted to program easily as big problem is broken down into smaller steps
+
+Disadvantages:
+1)Complex logic is difficult to understand through algorithms
+2)Time-consuming
+3)Branching and looping is very difficult to represent in algos(IMP)
